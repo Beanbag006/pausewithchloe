@@ -50,7 +50,7 @@ header {
 
 h1 {
     margin: 0;
-    font-family: "Garamond", serif;
+    font-family: "EB Garamond", serif;
     font-size: clamp(40px, 12vw, 100px);
     white-space: nowrap;
     background: linear-gradient(to right, #A87556, #FAE2D5);
