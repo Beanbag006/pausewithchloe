@@ -6,6 +6,11 @@ body {
     color: #2E2A27;
 }
 
+.brand {
+  letter-spacing: 0.3em; /* controls spacing between letters */
+  white-space: nowrap;
+}
+
 .container {
     width: 90%;
     max-width: 1000px;
@@ -197,4 +202,8 @@ footer {
     .session-layout {
         flex-direction: column;
     }
+
+  .brand {
+    letter-spacing: 0.2em;
+  }
 }
